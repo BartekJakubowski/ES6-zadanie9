@@ -1,0 +1,29 @@
+body {
+	margin: 0px;
+}
+
+#root {
+	width: 1350px;
+}
+
+#searchText {
+	width: 250px;
+}
+
+.user {
+	width: 160px;
+	height: 215px;
+	float: left;
+	margin: 5px;
+	text-align: center;
+}
+
+.searchBar {
+	height: 30px;
+	width: 100%;
+	padding-top: 18px;
+	padding-bottom: 12px;
+	padding-left: 200px;
+	color: rgba(255,255,255,0.75);
+	background-color: #24292e;
+}
